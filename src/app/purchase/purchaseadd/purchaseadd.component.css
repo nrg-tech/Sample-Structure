@@ -1,0 +1,28 @@
+* {
+  font-family: sans-serif;
+  font-size:medium;
+}
+table {
+    width: 70%;
+    padding-left: 10px;
+  }
+
+  th{
+    color:white;
+    background-color:#243C48;
+  }
+  td{
+    background-color:white;
+
+  }
+  h5{
+    color:white;
+ 
+  }
+  #savebtn {
+    background-color:#51AF57 ;
+    color:white;
+    
+  }
+
+  
